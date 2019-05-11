@@ -1,6 +1,8 @@
 package main
 
-import error2 "learning/chapter11"
+import (
+	exception "learning/chapter12"
+)
 
 func main() {
 	//hello.SayHello();
@@ -13,5 +15,6 @@ func main() {
 	//function.Demo()
 	//method.Demo()
 	//interfaceLearning.Demo()
-	error2.Demo()
+	//error2.Demo()
+	exception.Demo()
 }
