@@ -1,7 +1,7 @@
 package main
 
 import (
-	exception "learning/chapter12"
+	concurrent "learning/chapter14"
 )
 
 func main() {
@@ -16,5 +16,6 @@ func main() {
 	//method.Demo()
 	//interfaceLearning.Demo()
 	//error2.Demo()
-	exception.Demo()
+	//exception.Demo()
+	concurrent.Demo()
 }
